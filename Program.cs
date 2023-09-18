@@ -178,6 +178,5 @@ while (startagain == "ja")
     Console.WriteLine("Vill du testa igen?");
     Console.WriteLine("Ja eller nej");
     startagain = Console.ReadLine().ToLower();
-    
-
+    Console.WriteLine("");
 }
